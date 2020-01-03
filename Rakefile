@@ -1,7 +1,7 @@
 
 CC                     = "gcc"
 CFLAGS                 = ""
-FPGA_BITSTREAM_FILE    = "pump_axi4.rbf"
+FPGA_BITSTREAM_FILE    = "sample.rbf"
 DEVICE_TREE_DIRECTORY  = "uio_irq_sample"
 DEVICE_TREE_FILE       = "uio_irq_sample.dts"
 UIO_DEVICE_NAME        = "uio0"
